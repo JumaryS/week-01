@@ -6,8 +6,7 @@
 
 ## Basic commands:
 
-The first tasked asked of us after setting up our very complicated apple mac laptops (android user) we went right into learning terminal which is an easier way to create file, doc, organize etc. We used what we learned by creating small projects. 
-
+ 
 
 * Command + SPACE -spotlight search : search any app
 * Command + TAB(quickly) -switch between tabs/windows/apps, hold the command key to see the menu {not as organized}
